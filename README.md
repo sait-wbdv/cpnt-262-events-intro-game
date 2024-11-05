@@ -1,1 +1,1 @@
-# Starter code for introduction to events
+# Reaction Tester Game
